@@ -1,1 +1,1 @@
-Get-ADUser -Filter * ; New-ADUser Blackhat
+Get-ADUser -Filter *; New-ADUser Blackhat
