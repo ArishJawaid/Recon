@@ -1,1 +1,1 @@
-Get-ADUser -Filter * > C:\Users.txt;
+Get-ADUser -Filter * > C:\Users.txt
